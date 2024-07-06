@@ -1,3 +1,7 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600");
+@font-face { font-family: WoodWarrior; src: url( "../font/Woodwarrior-Regular.otf"); } 
+
 /*
  * Components CSS - v5 - 2016-07-08
  * https://www.myresponsee.com
